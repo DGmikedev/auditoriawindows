@@ -1,0 +1,1 @@
+# Aplicaión para auditoria en equipos/servidores Windows.
