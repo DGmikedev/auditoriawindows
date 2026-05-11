@@ -1,14 +1,17 @@
 param(
     [string]$path,
-    [string]$nameDir
+    [string]$nameDir,
+    [string]$TYPE
 )
 
 $localpath = Get-Location
 
-Import-Module -Name "$localpath\New-Resultjson.psm1"
 
 
-function New-Directory($path, $nameDir){
+Import-Module -Name "$PSScriptRoot\New-Result.psm1"
+
+
+function New-Directory($path, $nameDir, $TYPE){
 
     # Validated Parent path
     $path_validated = pathValidator -path $path
@@ -17,43 +20,29 @@ function New-Directory($path, $nameDir){
 
         try{
 
-            New-Item -ItemType "Directory" -Path "$path\$nameDir" -ErrorAction Stop -Force | Out-Null 
+            New-Item -ItemType "Directory" -Path "$path\$nameDir" -ErrorAction Stop -Force | Out-Null  
 
-            $result = New-Resultjson -STATUS 1 -MSG "Directory generated succesfull" -DATA "$path\$nameDir" 
+            $result = New-Result -STATUS 1 -MSG "Directory generated succesfull" -DATA "$path\$nameDir"  -TYPE $TYPE
 
             return $result
-            
-
 
         }catch{
 
             $msg = $_.Exception.Message
 
-            $MsjR=@{
+            $result = New-Result -STATUS 0 -MSG $msg -DATA $null -TYPE $TYPE
 
-                STATUS = 0
-                MSG = $msg
-                DATA = $null
-            }
-
-            return $MsjR | ConvertTo-JSON  
-            
+            return $result
+           
         }
-
 
     }else{
 
-            $MsjR=@{
-                    STATUS = 0
-                    MSG = "Has ben an error to read directory path"
-                    DATA = $null
-            }
+        $result = New-Result -STATUS 0 -MSG "Has ben an error to read directory path" -DATA $null -TYPE $TYPE
 
-            return $MsjR | ConvertTo-JSON  
+        return $result
 
     }
-
-    
 
 }
 
