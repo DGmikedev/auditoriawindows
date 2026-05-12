@@ -2,9 +2,7 @@ param(
     [string]$TYPE = "raw"
 )
 
-$local = Get-Location
-
-$RJson = Join-Path (Split-Path $local -Parent) "\CommonFunctions\New-Result.psm1"
+$RJson = Join-Path (Split-Path $PSScriptRoot -Parent) "\CommonFunctions\New-Result.psm1"
 
 Import-Module "$RJson"
 

@@ -1,0 +1,108 @@
+param(
+    [PSCustomObject]$DATA
+)
+
+$ScrPath  = Split-Path ( Split-Path $PSScriptRoot -Parent) -Parent
+
+function Get-HtmlInforme($DATA){
+
+    
+
+    # Get HTML Template
+    $tmpltpath = Join-Path $PSScriptRoot "\template.html"
+
+    $tmplt = Get-Content $tmpltpath -Raw
+    
+    # Set ID User-EQUIPMENT
+    $tmplt = $tmplt.Replace( "{{ IDEQP }}",  $DATA.ID )
+
+    $menuLtrl = ""
+
+    foreach($item in $DATA){
+
+        $TMPN = $item.PSObject.Properties.Name
+
+        $menuLtrl += '<div class="menu-item" onclick="showSection(''configuracion'', this)"> ' + $TMPN + ' </div>' + "`n"
+
+        #$menuLtrl += '<div class="menu-item" onclick="showSection(`'configuracion`', this)`">"  $VAR  </div>"
+
+        $TMPN = ""
+
+    }
+
+    Write-Host $menuLtrl
+
+    $tmplt = $tmplt.Replace( "{{ lateral_menu }}", $menuLtrl )
+
+
+
+
+    <#  
+    <div class="menu-item" onclick="showSection('configuracion', this)">
+            Configuración
+        </div>
+    #>
+
+
+
+    $tmplt | Set-Content "informHTML.html"
+
+    Invoke-Item "informHTML.html"
+
+    
+#
+    #
+#
+    #
+
+
+    #{{ IDEQP }}
+    #Write-Host  $DATA | ConvertTo-JSON
+}
+
+
+Export-moduleMember Get-HtmlInforme
+<#
+# Datos de reporte
+ $IDEQP = 1234567890
+
+
+
+
+
+# Paths of modules
+    $CpuMod = Join-Path $ScrPath "\Modules\Get-Cpu.psm1"
+
+# Import Modules
+    Import-Module $CpuMod
+
+
+
+# Use of function GET
+
+    
+    $cpu = Get-Cpu -TYPE "raw"
+
+    # Transponse cpu data table
+    $tablaCPU = foreach($cpu in $cpu.DATA.PSObject.Properties){
+
+                    [PSCustomObject]@{
+                        PROPERTY  = $cpu.Name
+                        VALUE = $cpu.Value
+                    }
+                }
+    
+    $cpuTbl = $cpuTbl.Replace(
+
+        "{{ CPU_TABLE }}",
+
+        ( $tablaCPU | ConvertTo-Html -Fragment )
+
+    )
+
+    $cpuTbl | Set-Content "informHTML.html"
+
+    Invoke-Item "informHTML.html"
+
+Exit 1
+#>

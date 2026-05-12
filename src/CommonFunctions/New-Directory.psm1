@@ -4,10 +4,6 @@ param(
     [string]$TYPE
 )
 
-$localpath = Get-Location
-
-
-
 Import-Module -Name "$PSScriptRoot\New-Result.psm1"
 
 
