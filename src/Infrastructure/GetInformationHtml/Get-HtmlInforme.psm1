@@ -5,9 +5,7 @@ param(
 $ScrPath  = Split-Path ( Split-Path $PSScriptRoot -Parent) -Parent
 
 function Get-HtmlInforme($DATA){
-
     
-
     # Get HTML Template
     $tmpltpath = Join-Path $PSScriptRoot "\template.html"
 
@@ -16,25 +14,76 @@ function Get-HtmlInforme($DATA){
     # Set ID User-EQUIPMENT
     $tmplt = $tmplt.Replace( "{{ IDEQP }}",  $DATA.ID )
 
-    $OpcNames = New-Object System.Collections.Generic.List[string]
+    $DivLateral = ""
+    $DivMain = ""
 
-    $menuLtrl = ""
 
-    foreach($item in $DATA){
+    $modules = $DATA | Get-Member -MemberType NoteProperty
 
-        $item.PSObject.Properties.Name
+    foreach($module in $modules){
 
-        $html = '<div class="menu-item" onclick="showSection(''configuracion'', this)"> ' + $TMPN + ' </div>' + "`n"
-        
-        $OpcNames.Add($html)
+        if(!($module.Name -eq "ID" -or  $module.Name -eq "DATE" -or $module.Name -eq "LOGPATH")){
 
-        $TMPN = ""
+            # Adding lateral divs menu
+            $DivLateral += "<div class=`"menu-item`" onclick=`"showSection('"+ $module.Name.ToLower() + "', this)`">"+  $module.Name +"</div>"
 
+            # $property = $DATA.($module.Name)  | ConvertTo-JSON 
+              # Transponse cpu data table
+                $item = foreach($moduleT in $DATA.($module.Name).DATA.PSObject.Properties){
+                
+                                [PSCustomObject]@{
+                                    PROPERTY  = $moduleT.Name
+                                    VALUE = $moduleT.Value
+                                }
+                            }
+                $dataItem = $item | ConvertTo-Html -Fragment
+                        
+            # Adding divs of main content
+            $DivMain += "<div id=`""+ $module.Name.ToLower() +"`" class=`"section`"> <h1>"+$module.Name+"</h1> <p>$dataItem</p> </div>"
+
+        }
     }
 
-    Write-Host $OpcNames
+    <# Get the names of Modules from PSCustomObject 
+    foreach($item in $Data){
 
-    $tmplt = $tmplt.Replace( "{{ lateral_menu }}", $menuLtrl )
+        # "ID" "DATE" "LOGPATH No data modules
+        if(!($item.psobject.properties.name -eq "ID" -or  $item.psobject.properties.name -eq "DATE" -or $item.psobject.properties.name -eq "LOGPATH")){
+
+            # Adding lateral divs menu
+            $DivLateral += "<div class=`"menu-item`" onclick=`"showSection('"+ $item.psobject.properties.name.ToLower() + "', this)`">"+  $item.psobject.properties.name +"</div>"
+
+
+
+
+
+            # Adding divs of main content
+            $DivMain += "<div id=`""+ $item.psobject.properties.name.ToLower() +"`" class=`"section`"> <h1>"+$item.psobject.properties.name+"</h1> <p>  </p> </div>"
+
+        }
+       
+    } #>
+
+    
+    <#
+    <div id="configuracion" class="section">
+            <h1>Configuración</h1>
+            <p>
+                Opciones generales del sistema.
+            </p>
+        </div>
+    #>
+
+    $tmplt = $tmplt.Replace( "{{ lateral_menu }}", $DivLateral )
+    $tmplt = $tmplt.Replace( "{{ main_content }}", $DivMain )
+
+
+
+
+
+    $tmplt | Set-Content "informHTML.html"
+
+    Invoke-Item "informHTML.html"
 
 
 
@@ -47,9 +96,7 @@ function Get-HtmlInforme($DATA){
 
 
 
-    $tmplt | Set-Content "informHTML.html"
-
-    Invoke-Item "informHTML.html"
+    
 
     
 #

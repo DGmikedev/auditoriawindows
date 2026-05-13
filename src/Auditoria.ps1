@@ -84,13 +84,21 @@
 # Write log or stop the proccess
     function Write-InLog($Status, $Name, $Data, $log ){
 
-         if($Status -eq 1){
+        if($Status -eq 1){
 
             $msg = "Datos de |  $Name | OK " + " - $Data`n" 
 
             Add-Content -Path $log -Value "[ $date | $time ] $msg"
 
             Write-Host $msg -ForegroundColor Green
+
+        }elseif($Status -eq 'F'){
+            
+            $msg = "$Data`n" 
+
+            Add-Content -Path $log -Value "[ $date | $time ] $msg"
+
+            # Write-Host $msg -ForegroundColor Green
 
         }else{
 
@@ -123,17 +131,20 @@
         $Values | Add-Member -NotePropertyName "LOGPATH" -NotePropertyValue $log 
 
     # Log Header
-        Add-Content -Path $log -Value "########  AUDITORIA EQP: $IDEQP - FECHA: [ $date | $time ] ##############################"
-        Add-Content -Path $log -Value ""
-        Add-Content -Path $log -Value "[ $date | $time ] PATH DE MODULOS: "
-        Add-Content -Path $log -Value "[ $date | $time ] $PSSCriptRoot\Modules\"
-        Add-Content -Path $log -Value ""
-        Add-Content -Path $log -Value "[ $date | $time ] LOG: "
-        Add-Content -Path $log -Value "[ $date | $time ] $log"
-        Add-Content -Path $log -Value ""
-        Add-Content -Path $log -Value "[ $date | $time ] MOULO GENERADOR DE HTML DE INFORME: "
-        Add-Content -Path $log -Value "[ $date | $time ] $htmlIf"
-        Add-Content -Path $log -Value ""
+        
+        Write-InLog -Status 'F' -Name $null -Data "########  AUDITORIA EQP: $IDEQP - FECHA: [ $date | $time ] ##############################" -log $log
+
+        Write-InLog -Status 'F' -Name $null -Data "[ $date | $time ] PATH DE MODULOS: " -log $log
+
+        Write-InLog -Status 'F' -Name $null -Data "[ $date | $time ] $PSSCriptRoot\Modules\" -log $log
+
+        Write-InLog -Status 'F' -Name $null -Data "[ $date | $time ] LOG: " -log $log
+
+        Write-InLog -Status 'F' -Name $null -Data "[ $date | $time ] $log" -log $log
+
+        Write-InLog -Status 'F' -Name $null -Data "[ $date | $time ] MOULO GENERADOR DE HTML DE INFORME: " -log $log
+
+        Write-InLog -Status 'F' -Name $null -Data "[ $date | $time ] $htmlIf" -log $log
    
 ### GET DATA HARDWARE ########
 

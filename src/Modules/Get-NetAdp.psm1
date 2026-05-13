@@ -10,10 +10,35 @@ function Get-NetAdp($TYPE){
     try{
         
         $net = Get-NetAdapter | 
-        Select-Object Name, MacAddress, InterfaceDescription, 
-        Status, LinkSpeed
+        Select-Object Name, 
+        MacAddress, 
+        InterfaceDescription, 
+        Status, 
+        LinkSpeed
 
-        $Net = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-NetAdp.psm1" -DATA $net -TYPE $TYPE
+        $netAdp = foreach ($adaptador in $net) {
+
+            $hash = @{
+                $hash[$adaptador.psobject.properties.Name] = $adaptador.psobject.properties.Name
+            }
+
+            Write-Host $adaptador.psobject.properties.Name
+            Write-Host ""
+            Write-Host $adaptador.MacAddress # psobject.properties.MacAddress
+            Write-Host ""
+            Write-Host $adaptador.InterfaceDescription
+                        Write-Host ""
+
+            #foreach ($propiedad in $adaptador.psobject.properties) {
+#
+            #    $hash[$propiedad.Name] = $propiedad.Value
+            #}
+                $hash # Devolver la tabla hash individual al array
+        }
+
+        Write-Host ">>>>>>>>>>" $netAdp
+
+        $Net = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-NetAdp.psm1" -DATA $netAdp -TYPE $TYPE
         
         return  $Net
 
