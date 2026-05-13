@@ -14,7 +14,7 @@ function Get-Disk($TYPE){
                     Size, 
                     FreeSpace
 
-        $RDisk = New-Result -STATUS 1 -MSG "Disk data was obtained succesfull " -DATA $disk -TYPE $TYPE
+        $RDisk = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-Disk.psm1" -DATA $disk -TYPE $TYPE
         
         return  $RDisk
         

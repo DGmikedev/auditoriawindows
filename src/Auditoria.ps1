@@ -25,7 +25,7 @@
     Import-Module -Name "$PSSCriptRoot\CommonFunctions\New-Document.psm1"
     Import-Module -Name "$htmlIf"
 
-    # Gets Hardware Modules
+# Gets Hardware Modules
     Import-Module -Name "$PSSCriptRoot\Modules\Get-Cpu.psm1"
     Import-Module -Name "$PSSCriptRoot\Modules\Get-Disk.psm1"
     Import-Module -Name "$PSSCriptRoot\Modules\Get-Eqp.psm1"
@@ -37,50 +37,74 @@
 ### FUNCTIONS ################################################################
 
 # Make repository of documents
-function New-Repository($localpath, $RepoName){
-    
-    $Repo = New-Directory -path $localpath -nameDir $RepoName -TYPE "raw"
+    function New-Repository($localpath, $RepoName){
 
-    if( $Repo.STATUS -eq 1){
-        
-        Write-Host "Exito al crear el rpositorio: "$Repo.DATA    -ForegroundColor Green
+        $Repo = New-Directory -path $localpath -nameDir $RepoName -TYPE "raw"
 
-        return $Repo.DATA
+        if( $Repo.STATUS -eq 1){
 
-    }else{
+            Write-Host "Exito al crear el rpositorio: "$Repo.DATA    -ForegroundColor Green
 
-        Write-Host "Problemas al crear el rpositorio: "$Repo.MSG    -ForegroundColor Red
+            return $Repo.DATA
 
-        Exit 1
+        }else{
+
+            Write-Host "Problemas al crear el rpositorio: "$Repo.MSG    -ForegroundColor Red
+
+            Exit 1
+        }
     }
-}
 
 
 # Make log of document
-function New-Log($LogsName, $RepoD, $msg){
-    
-    $log = New-Document -name $LogsName -path $RepoD -value $msg  -TYPE "raw"
+    function New-Log($LogsName, $RepoD, $msg){
 
-    if( $log.STATUS -eq 1){
+        $log = New-Document -name $LogsName -path $RepoD -value $msg  -TYPE "raw"
 
-        Write-Host "Exito al crear el Docuemnto LOG: " $log.DATA    -ForegroundColor Green
+        if( $log.STATUS -eq 1){
 
-        return $log.DATA
+            Write-Host "Exito al crear el Docuemnto LOG: " $log.DATA    -ForegroundColor Green
 
-    }elseif( $log.STATUS -eq 2){
-        
-        Write-Host "Documento log ya había sido creado: " $log.DATA    -ForegroundColor Green
+            return $log.DATA
 
-        return $log.DATA
+        }elseif( $log.STATUS -eq 2){
 
-    }else{
+            Write-Host "Documento log ya había sido creado: " $log.DATA    -ForegroundColor Green
 
-        Write-Host "Problemas al crear el Docuemnto LOG: "$log.MSG    -ForegroundColor Red
+            return $log.DATA
 
-        Exit 1
+        }else{
+
+            Write-Host "Problemas al crear el Docuemnto LOG: "$log.MSG    -ForegroundColor Red
+
+            Exit 1
+        }
     }
-}
 
+# Write log or stop the proccess
+    function Write-InLog($Status, $Name, $Data, $log ){
+
+         if($Status -eq 1){
+
+            $msg = "Datos de |  $Name | OK " + " - $Data`n" 
+
+            Add-Content -Path $log -Value "[ $date | $time ] $msg"
+
+            Write-Host $msg -ForegroundColor Green
+
+        }else{
+
+            $msg = "Error al conseguir datos del $Name : " + $Data
+            
+            Add-Content -Path $log -Value "[ $date | $time ] $msg"
+
+            Write-Host $msg -ForegroundColor Green
+
+            Exit 1
+
+        }
+
+    }
 
 ### MAIN BLOCK ############################################################################################ 
 
@@ -91,197 +115,61 @@ function New-Log($LogsName, $RepoD, $msg){
     $Values | Add-Member -NotePropertyName "DATE" -NotePropertyValue (Get-Date)
 
     # Repository
-    $RepoD = New-Repository -localpath $localpath -RepoName $RepoName
+        $RepoD = New-Repository -localpath $localpath -RepoName $RepoName
 
     # Log
-    $log = New-Log -LogsName $LogsName -RepoD $RepoD -msg ""
+        $log = New-Log -LogsName $LogsName -RepoD $RepoD -msg ""
 
-    $Values | Add-Member -NotePropertyName "LOGPATH" -NotePropertyValue $log 
+        $Values | Add-Member -NotePropertyName "LOGPATH" -NotePropertyValue $log 
 
-# Log Header
-    Add-Content -Path $log -Value "########  AUDITORIA EQP: $IDEQP - FECHA: [ $date | $time ] ##############################"
-    Add-Content -Path $log -Value ""
-    Add-Content -Path $log -Value "[ $date | $time ] PATH DE MODULOS: "
-    Add-Content -Path $log -Value "[ $date | $time ] $PSSCriptRoot\Modules\"
-    Add-Content -Path $log -Value ""
-    Add-Content -Path $log -Value "[ $date | $time ] LOG: "
-    Add-Content -Path $log -Value "[ $date | $time ] $log"
-    Add-Content -Path $log -Value ""
-    Add-Content -Path $log -Value "[ $date | $time ] MOULO GENERADOR DE HTML DE INFORME: "
-    Add-Content -Path $log -Value "[ $date | $time ] $htmlIf"
-    Add-Content -Path $log -Value ""
+    # Log Header
+        Add-Content -Path $log -Value "########  AUDITORIA EQP: $IDEQP - FECHA: [ $date | $time ] ##############################"
+        Add-Content -Path $log -Value ""
+        Add-Content -Path $log -Value "[ $date | $time ] PATH DE MODULOS: "
+        Add-Content -Path $log -Value "[ $date | $time ] $PSSCriptRoot\Modules\"
+        Add-Content -Path $log -Value ""
+        Add-Content -Path $log -Value "[ $date | $time ] LOG: "
+        Add-Content -Path $log -Value "[ $date | $time ] $log"
+        Add-Content -Path $log -Value ""
+        Add-Content -Path $log -Value "[ $date | $time ] MOULO GENERADOR DE HTML DE INFORME: "
+        Add-Content -Path $log -Value "[ $date | $time ] $htmlIf"
+        Add-Content -Path $log -Value ""
    
-
-## GET DATA HARDWARE ###
+### GET DATA HARDWARE ########
 
     Add-Content -Path $log -Value "MODULOS DE HARDWARE REQUERIDOS"
+
     Add-Content -Path $log -Value ""
 
-    ## CPU
+    # CPU
         $Values | Add-Member -NotePropertyName "CPU" -NotePropertyValue (Get-Cpu -TYPE "raw")
-
-        if($Values.CPU.STATUS -eq 1){
-
-            
-
-            $msg = "Datos de |  CPU  | OK " + "`n   - $PSSCriptRoot\Modules\Get-Cpu.psm1`n"
-
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-        }else{
-
-            $msg = "Error al conseguir datos de CPU: " + $Values.CPU.MSG
-            
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-            Exit 1
-
-        }
+        Write-InLog -Status $Values.CPU.STATUS -Name "CPU" -Data $Values.CPU.MSG -log $log
 
     # DISK
-        $Values | Add-Member -NotePropertyName "DISK" -NotePropertyValue (Get-Disk -TYPE "raw")
+        $Values | Add-Member -NotePropertyName "DISCO" -NotePropertyValue (Get-Disk -TYPE "raw")
+        Write-InLog -Status $Values.CPU.STATUS -Name "DSICO" -Data $Values.DISCO.MSG -log $log
         
-        if($Values.DISK.STATUS -eq 1){
-
-            $msg = "Datos de |  PARTICIONES DEL DISCO  | OK " + "`n - $PSSCriptRoot\Modules\Get-Disk.psm1`n"
-
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-        }else{
-
-            $msg = "Error al conseguir datos de PARTICIONES DEL DISCO: " + $Values.DISK.MSG
-            
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-            Exit 1
-
-        }
-
     # EQP
-        $Values | Add-Member -NotePropertyName "EQP" -NotePropertyValue (Get-Eqp -TYPE "raw")
-        
-        if($Values.EQP.STATUS -eq 1){
-
-            $msg = "Datos de |  EQUIPO  | OK #" + "`n   - $PSSCriptRoot\Modules\Get-Eqp.psm1`n"
-
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-        }else{
-
-            $msg = "Error al conseguir datos de EQUIPO: " + $Values.EQP.MSG
-            
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-            Exit 1
-
-        }
+        $Values | Add-Member -NotePropertyName "EQUIPO" -NotePropertyValue (Get-Eqp -TYPE "raw")
+        Write-InLog -Status $Values.CPU.STATUS -Name "EQUIPO" -Data $Values.EQUIPO.MSG -log $log
 
     # Fisical DISK
-        $Values | Add-Member -NotePropertyName "FDISK" -NotePropertyValue (Get-FDisk -TYPE "raw")
-        
-        if($Values.FDISK.STATUS -eq 1){
-
-            $msg = "Datos de |  DISCO FISICO | OK #" + "`n   - $PSSCriptRoot\Modules\Get-FDisk.psm1`n" 
-
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-        }else{
-
-            $msg = "Error al conseguir datos del DISCO FISICO: " + $Values.FDISK.MSG
-            
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-            Exit 1
-
-        }
+        $Values | Add-Member -NotePropertyName "DISCO_FISICO" -NotePropertyValue (Get-FDisk -TYPE "raw")
+        Write-InLog -Status $Values.CPU.STATUS -Name "DISCO_FISICO" -Data $Values.DISCO_FISICO.MSG -log $log
 
     # Ip Net
-        $Values | Add-Member -NotePropertyName "IPNET" -NotePropertyValue (Get-IpNet -TYPE "raw")
-        
-        if($Values.IPNET.STATUS -eq 1){
-
-            $msg = "Datos de |  IP NET  | OK " + "`n   - $PSSCriptRoot\Modules\Get-IpNet.psm1`n"
-
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-        }else{
-
-            $msg = "Error al conseguir datos de IP Y NET: " + $Values.IPNET.MSG
-            
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-            Exit 1
-
-        }
+        $Values | Add-Member -NotePropertyName "IP_NET" -NotePropertyValue (Get-IpNet -TYPE "raw")
+        Write-InLog -Status $Values.CPU.STATUS -Name "IP_NET" -Data $Values.IP_NET.MSG -log $log
 
     # ADAPTER NET
-        $Values | Add-Member -NotePropertyName "NTADP" -NotePropertyValue (Get-NetAdp -TYPE "raw")
-        
-        if($Values.NTADP.STATUS -eq 1){
-
-            $msg = "Datos de |  ADAPTADOR DE RED  | OK #" + "`n   - $PSSCriptRoot\Modules\Get-NetAdp.psm1`n"
-
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-
-        }else{
-
-            $msg = "Error al conseguir datos de ADAPTADOR DE RED: " + $Values.NTADP.MSG
-            
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-            Exit 1
-
-        }
+        $Values | Add-Member -NotePropertyName "ADAPTADOR_NET" -NotePropertyValue (Get-NetAdp -TYPE "raw")
+        Write-InLog -Status $Values.CPU.STATUS -Name "ADAPTADOR_NET" -Data $Values.ADAPTADOR_NET.MSG -log $log
 
     # TIME ZONE
-        $Values | Add-Member -NotePropertyName "TMZN" -NotePropertyValue (Get-TMZone -TYPE "raw")
-        
-        if($Values.TMZN.STATUS -eq 1){
-
-            $msg = "Datos de |  TIME ZONE |  OK " + "`n   - $PSSCriptRoot\Modules\Get-TMZone.psm1`n"
-
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-        }else{
-
-            
-            $msg = "Error al conseguir datos de la TIME ZONE DEL DISCO: " + $Values.TMZN.MSG
-            
-            Add-Content -Path $log -Value "[ $date | $time ] $msg"
-
-            Write-Host $msg    -ForegroundColor Green
-
-            Exit 1
-
-        }
+        $Values | Add-Member -NotePropertyName "TIME_ZONE" -NotePropertyValue (Get-TMZone -TYPE "raw")
+        Write-InLog -Status $Values.CPU.STATUS -Name "TIME_ZONE" -Data $Values.TIME_ZONE.MSG -log $log
 
 Get-HtmlInforme -DATA $Values
+
 Exit 1
 

@@ -31,7 +31,7 @@ function Get-Cpu($TYPE){
                             NumberOfCores, 
                             NumberOfLogicalProcessors
 
-        $CpuR = New-Result -STATUS 1 -MSG "Cpu data was obtained succesfull " -DATA $cpu -TYPE $TYPE
+        $CpuR = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-Cpu.psm1" -DATA $cpu -TYPE $TYPE
         
         return  $CpuR
 

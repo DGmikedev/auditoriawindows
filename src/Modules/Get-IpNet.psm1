@@ -13,7 +13,7 @@ function Get-IpNet($TYPE){
             IPV4     = Get-NetIPAddress -AddressFamily IPv4 | Select-Object InterfaceAlias, IPAddress
             ADAPTERS = Get-NetIPConfiguration | Select-Object  InterfaceDescription
         }
-        $IpNet = New-Result -STATUS 1 -MSG "IP data was obtained succesfull " -DATA $dat1 -TYPE $TYPE
+        $IpNet = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-IpNet.psm1" -DATA $dat1 -TYPE $TYPE
         
         return  $IpNet
 

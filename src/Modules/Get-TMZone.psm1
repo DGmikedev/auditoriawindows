@@ -12,7 +12,7 @@ function Get-TMZone($TYPE){
 
         $TMZ = Get-TimeZone | Select-Object Id, DisplayName, StandardName, DaylightName
 
-        $RTmz = New-Result -STATUS 1 -MSG "Time Zone data was obtained succesfull " -DATA $TMZ -TYPE $TYPE
+        $RTmz = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-TMZone.psm1" -DATA $TMZ -TYPE $TYPE
 
         return $RTmz
 

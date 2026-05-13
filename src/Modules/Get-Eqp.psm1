@@ -10,13 +10,30 @@ function Get-Eqp($TYPE){
     try{
         
         $eqp = Get-ComputerInfo | 
-        Select-Object WindowsInstallDateFromRegistry, WindowsProductName, 
-        WindowsRegisteredOwner, WindowsSystemRoot, BiosBIOSVersion, BiosListOfLanguages, 
-        CsDNSHostName, CsDomain, CsName, CsNetworkAdapters, CsProcessors, CsSystemType, CsUserName,
-        CsWorkgroup, OsOperatingSystemSKU, OsVersion, OsSystemDirectory, OsSystemDrive, OsWindowsDirectory,
-        OsManufacturer, OsMuiLanguages, TimeZone
+        Select-Object WindowsInstallDateFromRegistry, 
+        WindowsProductName, 
+        WindowsRegisteredOwner, 
+        WindowsSystemRoot, 
+        BiosBIOSVersion, 
+        BiosListOfLanguages, 
+        CsDNSHostName, 
+        CsDomain, 
+        CsName, 
+        CsNetworkAdapters, 
+        CsProcessors, 
+        CsSystemType, 
+        CsUserName,
+        CsWorkgroup, 
+        OsOperatingSystemSKU, 
+        OsVersion,
+        OsSystemDirectory, 
+        OsSystemDrive, 
+        OsWindowsDirectory,
+        OsManufacturer, 
+        OsMuiLanguages, 
+        TimeZone
 
-        $REqp = New-Result -STATUS 1 -MSG "eqp data was obtained succesfull " -DATA $eqp -TYPE $TYPE
+        $REqp = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-Eqp.psm1" -DATA $eqp -TYPE $TYPE
         
         return  $REqp
 
@@ -30,6 +47,5 @@ function Get-Eqp($TYPE){
 
     }
 }
-
 
 Export-ModuleMember Get-Eqp

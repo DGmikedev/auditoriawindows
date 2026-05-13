@@ -13,7 +13,7 @@ function Get-NetAdp($TYPE){
         Select-Object Name, MacAddress, InterfaceDescription, 
         Status, LinkSpeed
 
-        $Net = New-Result -STATUS 1 -MSG "IP data was obtained succesfull " -DATA $net -TYPE $TYPE
+        $Net = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-NetAdp.psm1" -DATA $net -TYPE $TYPE
         
         return  $Net
 

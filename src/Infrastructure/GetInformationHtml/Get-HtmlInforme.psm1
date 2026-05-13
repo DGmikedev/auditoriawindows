@@ -16,21 +16,23 @@ function Get-HtmlInforme($DATA){
     # Set ID User-EQUIPMENT
     $tmplt = $tmplt.Replace( "{{ IDEQP }}",  $DATA.ID )
 
+    $OpcNames = New-Object System.Collections.Generic.List[string]
+
     $menuLtrl = ""
 
     foreach($item in $DATA){
 
-        $TMPN = $item.PSObject.Properties.Name
+        $item.PSObject.Properties.Name
 
-        $menuLtrl += '<div class="menu-item" onclick="showSection(''configuracion'', this)"> ' + $TMPN + ' </div>' + "`n"
-
-        #$menuLtrl += '<div class="menu-item" onclick="showSection(`'configuracion`', this)`">"  $VAR  </div>"
+        $html = '<div class="menu-item" onclick="showSection(''configuracion'', this)"> ' + $TMPN + ' </div>' + "`n"
+        
+        $OpcNames.Add($html)
 
         $TMPN = ""
 
     }
 
-    Write-Host $menuLtrl
+    Write-Host $OpcNames
 
     $tmplt = $tmplt.Replace( "{{ lateral_menu }}", $menuLtrl )
 

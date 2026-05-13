@@ -13,7 +13,7 @@ function Get-FDisk($TYPE){
         Select-Object Caption, partitions, 
         Size, Model
 
-        $RFDisk = New-Result -STATUS 1 -MSG "eqp data was obtained succesfull " -DATA $disk -TYPE $TYPE
+        $RFDisk = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-Fdisk.psm1" -DATA $disk -TYPE $TYPE
         
         return  $RFDisk
 
