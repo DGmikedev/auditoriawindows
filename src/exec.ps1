@@ -3,7 +3,6 @@
 # Remove-Module New-Result
 cls
 Write-Host "`n############       Removiendo Modulos  ##################`n "
-
 Remove-Module New-Directory
 Remove-Module New-Document
 Remove-Module Get-Cpu
@@ -21,6 +20,78 @@ Remove-Module Get-HtmlInforme
 $item = Get-NetAdapter | 
         Select-Object Name, MacAddress, InterfaceDescription, 
         Status, LinkSpeed
+
+Write-Host $item.psobject.ImmediateBaseObject
+
+<#
+
+
+@{
+Name=Ethernet; MacAddress=FC-4D-D4-D2-4A-53; InterfaceDescription=Intel(R) Ethernet 
+                  Connection I217-LM; Status=Disconnected; LinkSpeed=0 bps}, 
+@{
+Name=Wi-Fi; 
+                  MacAddress=00-EB-D8-0A-11-B8; InterfaceDescription=Realtek RTL8192EU Wireless LAN 802.11n 
+                  USB 2.0 Network Adapter; Status=Up; LinkSpeed=130 Mbps}, 
+@{
+Name=Ethernet 2; 
+                  MacAddress=0A-00-27-00-00-06; InterfaceDescription=VirtualBox Host-Only Ethernet Adapter; 
+                  Status=Up; LinkSpeed=1 Gbps}
+
+
+
+
+
+
+
+psobject {
+Members, 
+Properties, 
+Methods, 
+ImmediateBaseObject, 
+BaseObject, 
+TypeNames, 
+get_Members, 
+get_Properties, 
+get_Methods, 
+get_ImmediateBaseObject, 
+get_BaseObject, 
+ToString, 
+Copy, 
+Equals, 
+GetHashCode, 
+get_TypeNames, 
+CompareTo, 
+GetObjectData, 
+GetType, 
+GetMetaObject}
+
+
+
+
+@{
+    Name=Ethernet; 
+    MacAddress=FC-4D-D4-D2-4A-53; 
+    InterfaceDescription=Intel(R) Ethernet Connection I217-LM; 
+    Status=Disconnected; 
+    LinkSpeed=0 bps
+} 
+@{  Name=Wi-Fi; 
+    MacAddress=00-EB-D8-0A-11-B8; 
+    InterfaceDescription=Realtek RTL8192EU Wireless LAN 802.11n USB 2.0 Network Adapter; 
+    Status=Up; 
+    LinkSpeed=130 Mbps
+} 
+@{
+    Name=Ethernet 2; 
+    MacAddress=0A-00-27-00-00-06; 
+    InterfaceDescription=VirtualBox Host-Only Ethernet Adapter; 
+    Status=Up; 
+    LinkSpeed=1 Gbps
+}
+
+
+<#
 
 $arrayt = {}
 

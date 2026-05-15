@@ -15,7 +15,7 @@ function Get-NetAdp($TYPE){
         InterfaceDescription, 
         Status, 
         LinkSpeed
-
+<#
         $netAdp = foreach ($adaptador in $net) {
 
             $hash = @{
@@ -36,9 +36,11 @@ function Get-NetAdp($TYPE){
                 $hash # Devolver la tabla hash individual al array
         }
 
-        Write-Host ">>>>>>>>>>" $netAdp
-
-        $Net = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-NetAdp.psm1" -DATA $netAdp -TYPE $TYPE
+        Write-Host ">>>>>>>>>>" $netAdp  #>
+        
+        #$net.psobject.ImmediateBaseObject 
+       
+        $Net = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-NetAdp.psm1" -DATA $net -TYPE $TYPE
         
         return  $Net
 

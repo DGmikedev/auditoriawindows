@@ -20,24 +20,112 @@ function Get-HtmlInforme($DATA){
 
     $modules = $DATA | Get-Member -MemberType NoteProperty
 
+
     foreach($module in $modules){
+        if(!($module.Name -eq "ID" -or  $module.Name -eq "DATE" -or $module.Name -eq "LOGPATH")){
+
+            #foreach($item in $module.)
+            $DivLateral += "<div class=`"menu-item`" onclick=`"showSection('"+ $module.Name.ToLower() + "', this)`">"+  $module.Name +"</div>"
+
+            Write-Host $DATA.($module.Name).DATA
+
+            if($DATA.($module.Name).DATA.PSObject.Properties.Name -contains "Count"){
+
+                Write-Host "====="$DATA.($module.Name).DATA.PSObject.Properties.Name
+
+            }
+
+            
+        }
+    }
+
+        $tmplt = $tmplt.Replace( "{{ lateral_menu }}", $DivLateral )
+        # $tmplt = $tmplt.Replace( "{{ main_content }}", $DivMain )
+        $tmplt | Set-Content "informHTML.html"
+        Invoke-Item "informHTML.html"
+        Exit 1
+
+    <#
+    $modules | ForEach-Object{
+
+        if(!($_.Name -eq "ID" -or  $_.Name -eq "DATE" -or $_.Name -eq "LOGPATH")){
+
+            # Adding lateral divs menu
+            $DivLateral += "<div class=`"menu-item`" onclick=`"showSection('"+ $_.Name.ToLower() + "', this)`">"+  $_.Name +"</div>"
+
+            Write-Host $DATA.($_.Name).PSObject.Properties.Name
+            Write-Host "#################" + $DATA[$_.Name]
+
+
+        } # If ID, DATE, LOGPATH END
+
+        
+    } # All Object engine
+
+
+
+
+    $tmplt = $tmplt.Replace( "{{ lateral_menu }}", $DivLateral )
+    # $tmplt = $tmplt.Replace( "{{ main_content }}", $DivMain )
+    $tmplt | Set-Content "informHTML.html"
+
+    Invoke-Item "informHTML.html"
+
+    Exit 1
+    
+
+    foreach($module in $modules){
+
+        
 
         if(!($module.Name -eq "ID" -or  $module.Name -eq "DATE" -or $module.Name -eq "LOGPATH")){
 
+            if($DATA.($module.Name).DATA.PSObject.Properties.Name -contains "Count"){
+
+
+
+            }
+
+            #if($HaveObjtsInside){
+            #    $DATA.($module.Name) | ForEach-Object{
+            #        $nms += $_
+            #    }
+            #}else{
+#
+            #}
+
+
+            # $DATA.($module.Name).DATA.PSObject.Properties.Name | ForEach-Object{
+            #     $nms += $_
+            # }
+            # foreach($name in $DATA.($module.Name).DATA.PSObject.Properties.Name){
+            #     $nms += $name
+            # }
+
+            # if($nms -contains "Count"){
+            #     Write-Host $DATA.($module.Name).DATA.PSObject.Properties.Name + "Tienen COunt"
+            # }
+
+
+
             # Adding lateral divs menu
             $DivLateral += "<div class=`"menu-item`" onclick=`"showSection('"+ $module.Name.ToLower() + "', this)`">"+  $module.Name +"</div>"
-
-            # $property = $DATA.($module.Name)  | ConvertTo-JSON 
-              # Transponse cpu data table
-                $item = foreach($moduleT in $DATA.($module.Name).DATA.PSObject.Properties){
                 
-                                [PSCustomObject]@{
-                                    PROPERTY  = $moduleT.Name
-                                    VALUE = $moduleT.Value
-                                }
-                            }
+                # Transponse data table
+                
+                 $item = foreach($moduleT in $DATA.($module.Name).DATA.PSObject.Properties){
+
+                        [PSCustomObject]@{
+                            PROPERTY  = $moduleT.Name
+                            VALUE = $moduleT.Value
+                        }
+
+                }   
+                   
+                Write-Host "====================================="
+
                 $dataItem = $item | ConvertTo-Html -Fragment
-                        
+
             # Adding divs of main content
             $DivMain += "<div id=`""+ $module.Name.ToLower() +"`" class=`"section`"> <h1>"+$module.Name+"</h1> <p>$dataItem</p> </div>"
 
@@ -72,7 +160,8 @@ function Get-HtmlInforme($DATA){
                 Opciones generales del sistema.
             </p>
         </div>
-    #>
+    
+
 
     $tmplt = $tmplt.Replace( "{{ lateral_menu }}", $DivLateral )
     $tmplt = $tmplt.Replace( "{{ main_content }}", $DivMain )
