@@ -12,6 +12,9 @@
     # log document name
     $LogsName = "Log_auditoria_$date.txt"
 
+    # document html
+    $HtmlInforName = "Auditoria_$date.html"
+
     # log html informe
     $htmlIf = "$PSSCriptRoot\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1"
 
@@ -33,6 +36,7 @@
     Import-Module -Name "$PSSCriptRoot\Modules\Get-IpNet.psm1"
     Import-Module -Name "$PSSCriptRoot\Modules\Get-NetAdp.psm1"
     Import-Module -Name "$PSSCriptRoot\Modules\Get-TMZone.psm1"
+    Import-Module -Name "$PSSCriptRoot\Modules\Get-Adapters.psm1"
 
 ### FUNCTIONS ################################################################
 
@@ -128,6 +132,10 @@
     # Log
         $log = New-Log -LogsName $LogsName -RepoD $RepoD -msg ""
 
+        $htmlInf = Join-Path $RepoD $HtmlInforName
+
+        $Values | Add-Member -NotePropertyName "HTMLPATH" -NotePropertyValue $htmlInf
+
         $Values | Add-Member -NotePropertyName "LOGPATH" -NotePropertyValue $log 
 
     # Log Header
@@ -157,8 +165,8 @@
         Write-InLog -Status $Values.CPU.STATUS -Name "CPU" -Data $Values.CPU.MSG -log $log
 
     # DISK
-        $Values | Add-Member -NotePropertyName "DISCO" -NotePropertyValue (Get-Disk -TYPE "raw")
-        Write-InLog -Status $Values.CPU.STATUS -Name "DSICO" -Data $Values.DISCO.MSG -log $log
+        $Values | Add-Member -NotePropertyName "PARTICIONES" -NotePropertyValue (Get-Disk -TYPE "raw")
+        Write-InLog -Status $Values.CPU.STATUS -Name "PARTICIONES" -Data $Values.PARTICIONES.MSG -log $log
         
     # EQP
         $Values | Add-Member -NotePropertyName "EQUIPO" -NotePropertyValue (Get-Eqp -TYPE "raw")
@@ -169,18 +177,22 @@
         Write-InLog -Status $Values.CPU.STATUS -Name "DISCO_FISICO" -Data $Values.DISCO_FISICO.MSG -log $log
 
     # Ip Net
-        $Values | Add-Member -NotePropertyName "IP_NET" -NotePropertyValue (Get-IpNet -TYPE "raw")
-        Write-InLog -Status $Values.CPU.STATUS -Name "IP_NET" -Data $Values.IP_NET.MSG -log $log
+        $Values | Add-Member -NotePropertyName "IPs" -NotePropertyValue (Get-IpNet -TYPE "raw")
+        Write-InLog -Status $Values.CPU.STATUS -Name "IPs" -Data $Values.IPs.MSG -log $log
 
     # ADAPTER NET
         $Values | Add-Member -NotePropertyName "ADAPTADOR_NET" -NotePropertyValue (Get-NetAdp -TYPE "raw")
         Write-InLog -Status $Values.CPU.STATUS -Name "ADAPTADOR_NET" -Data $Values.ADAPTADOR_NET.MSG -log $log
+    
+    # NET
+        $Values | Add-Member -NotePropertyName "ADAPTERS" -NotePropertyValue (Get-Adapters -TYPE "raw")
+        Write-InLog -Status $Values.CPU.STATUS -Name "ADAPTERS" -Data $Values.ADAPTERS.MSG -log $log
 
     # TIME ZONE
         $Values | Add-Member -NotePropertyName "TIME_ZONE" -NotePropertyValue (Get-TMZone -TYPE "raw")
         Write-InLog -Status $Values.CPU.STATUS -Name "TIME_ZONE" -Data $Values.TIME_ZONE.MSG -log $log
 
-Get-HtmlInforme -DATA $Values
+    Get-HtmlInforme -DATA $Values
 
 Exit 1
 

@@ -14,13 +14,10 @@ function Get-Eqp($TYPE){
         WindowsProductName, 
         WindowsRegisteredOwner, 
         WindowsSystemRoot, 
-        BiosBIOSVersion, 
-        BiosListOfLanguages, 
+        BiosName, 
         CsDNSHostName, 
         CsDomain, 
         CsName, 
-        CsNetworkAdapters, 
-        CsProcessors, 
         CsSystemType, 
         CsUserName,
         CsWorkgroup, 
@@ -30,7 +27,7 @@ function Get-Eqp($TYPE){
         OsSystemDrive, 
         OsWindowsDirectory,
         OsManufacturer, 
-        OsMuiLanguages, 
+        OsLanguage, 
         TimeZone
 
         $REqp = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-Eqp.psm1" -DATA $eqp -TYPE $TYPE

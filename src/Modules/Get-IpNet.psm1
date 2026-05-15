@@ -9,10 +9,9 @@ function Get-IpNet($TYPE){
 
     try{
         
-        $dat1    = [PSCustomObject]@{
-            IPV4     = Get-NetIPAddress -AddressFamily IPv4 | Select-Object InterfaceAlias, IPAddress
-            ADAPTERS = Get-NetIPConfiguration | Select-Object  InterfaceDescription
-        }
+        $dat1 = Get-NetIPAddress -AddressFamily IPv4 | Select-Object InterfaceAlias, IPAddress
+            
+        
         $IpNet = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-IpNet.psm1" -DATA $dat1 -TYPE $TYPE
         
         return  $IpNet
