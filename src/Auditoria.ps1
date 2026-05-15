@@ -106,7 +106,7 @@
             
             Add-Content -Path $log -Value "[ $date | $time ] $msg"
 
-            Write-Host $msg -ForegroundColor Green
+            Write-Host $msg -ForegroundColor Red
 
             Exit 1
 

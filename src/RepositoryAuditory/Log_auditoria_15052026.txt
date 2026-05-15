@@ -1,0 +1,1396 @@
+[ 15052026 | 08:34:37 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:34:37 ] ##############################
+
+[ 15052026 | 08:34:37 ] [ 15052026 | 08:34:37 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:34:37 ] [ 15052026 | 08:34:37 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:34:37 ] [ 15052026 | 08:34:37 ] LOG: 
+
+[ 15052026 | 08:34:37 ] [ 15052026 | 08:34:37 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:34:37 ] [ 15052026 | 08:34:37 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:34:37 ] [ 15052026 | 08:34:37 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:34:37 ] Error al conseguir datos del CPU : 
+[ 15052026 | 08:35:19 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:35:19 ] ##############################
+
+[ 15052026 | 08:35:19 ] [ 15052026 | 08:35:19 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:35:19 ] [ 15052026 | 08:35:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:35:19 ] [ 15052026 | 08:35:19 ] LOG: 
+
+[ 15052026 | 08:35:19 ] [ 15052026 | 08:35:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:35:19 ] [ 15052026 | 08:35:19 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:35:19 ] [ 15052026 | 08:35:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:35:19 ] Error al conseguir datos del CPU : 
+[ 15052026 | 08:35:45 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:35:45 ] ##############################
+
+[ 15052026 | 08:35:45 ] [ 15052026 | 08:35:45 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:35:45 ] [ 15052026 | 08:35:45 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:35:45 ] [ 15052026 | 08:35:45 ] LOG: 
+
+[ 15052026 | 08:35:45 ] [ 15052026 | 08:35:45 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:35:45 ] [ 15052026 | 08:35:45 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:35:45 ] [ 15052026 | 08:35:45 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:35:45 ] Error al conseguir datos del CPU : 
+[ 15052026 | 08:36:05 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:36:05 ] ##############################
+
+[ 15052026 | 08:36:05 ] [ 15052026 | 08:36:05 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:36:05 ] [ 15052026 | 08:36:05 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:36:05 ] [ 15052026 | 08:36:05 ] LOG: 
+
+[ 15052026 | 08:36:05 ] [ 15052026 | 08:36:05 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:36:05 ] [ 15052026 | 08:36:05 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:36:05 ] [ 15052026 | 08:36:05 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:36:05 ] Error al conseguir datos del CPU : 
+[ 15052026 | 08:38:10 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:38:10 ] ##############################
+
+[ 15052026 | 08:38:10 ] [ 15052026 | 08:38:10 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:38:10 ] [ 15052026 | 08:38:10 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:38:10 ] [ 15052026 | 08:38:10 ] LOG: 
+
+[ 15052026 | 08:38:10 ] [ 15052026 | 08:38:10 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:38:10 ] [ 15052026 | 08:38:10 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:38:10 ] [ 15052026 | 08:38:10 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:38:10 ] Error al conseguir datos del CPU : 
+[ 15052026 | 08:38:27 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:38:27 ] ##############################
+
+[ 15052026 | 08:38:27 ] [ 15052026 | 08:38:27 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:38:27 ] [ 15052026 | 08:38:27 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:38:27 ] [ 15052026 | 08:38:27 ] LOG: 
+
+[ 15052026 | 08:38:27 ] [ 15052026 | 08:38:27 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:38:27 ] [ 15052026 | 08:38:27 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:38:27 ] [ 15052026 | 08:38:27 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:38:27 ] Error al conseguir datos del CPU : 
+[ 15052026 | 08:38:42 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:38:42 ] ##############################
+
+[ 15052026 | 08:38:42 ] [ 15052026 | 08:38:42 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:38:42 ] [ 15052026 | 08:38:42 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:38:42 ] [ 15052026 | 08:38:42 ] LOG: 
+
+[ 15052026 | 08:38:42 ] [ 15052026 | 08:38:42 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:38:42 ] [ 15052026 | 08:38:42 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:38:42 ] [ 15052026 | 08:38:42 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:38:42 ] Error al conseguir datos del CPU : 
+[ 15052026 | 08:38:56 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:38:56 ] ##############################
+
+[ 15052026 | 08:38:56 ] [ 15052026 | 08:38:56 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:38:56 ] [ 15052026 | 08:38:56 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:38:56 ] [ 15052026 | 08:38:56 ] LOG: 
+
+[ 15052026 | 08:38:56 ] [ 15052026 | 08:38:56 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:38:56 ] [ 15052026 | 08:38:56 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:38:56 ] [ 15052026 | 08:38:56 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:38:56 ] Error al conseguir datos del CPU : 
+[ 15052026 | 08:40:33 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:40:33 ] ##############################
+
+[ 15052026 | 08:40:33 ] [ 15052026 | 08:40:33 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:40:33 ] [ 15052026 | 08:40:33 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:40:33 ] [ 15052026 | 08:40:33 ] LOG: 
+
+[ 15052026 | 08:40:33 ] [ 15052026 | 08:40:33 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:40:33 ] [ 15052026 | 08:40:33 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:40:33 ] [ 15052026 | 08:40:33 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:40:33 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:40:33 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:40:33 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:40:33 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:40:33 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:40:33 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:40:33 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:41:12 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:41:12 ] ##############################
+
+[ 15052026 | 08:41:12 ] [ 15052026 | 08:41:12 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:41:12 ] [ 15052026 | 08:41:12 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:41:12 ] [ 15052026 | 08:41:12 ] LOG: 
+
+[ 15052026 | 08:41:12 ] [ 15052026 | 08:41:12 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:41:12 ] [ 15052026 | 08:41:12 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:41:12 ] [ 15052026 | 08:41:12 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:41:12 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:41:12 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:41:12 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:41:12 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:41:12 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:41:12 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:41:12 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:42:41 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:42:41 ] ##############################
+
+[ 15052026 | 08:42:41 ] [ 15052026 | 08:42:41 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:42:41 ] [ 15052026 | 08:42:41 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:42:41 ] [ 15052026 | 08:42:41 ] LOG: 
+
+[ 15052026 | 08:42:41 ] [ 15052026 | 08:42:41 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:42:41 ] [ 15052026 | 08:42:41 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:42:41 ] [ 15052026 | 08:42:41 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:42:41 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:42:41 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:42:41 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:42:41 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:42:41 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:42:41 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:42:41 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:43:56 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:43:56 ] ##############################
+
+[ 15052026 | 08:43:56 ] [ 15052026 | 08:43:56 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:43:56 ] [ 15052026 | 08:43:56 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:43:56 ] [ 15052026 | 08:43:56 ] LOG: 
+
+[ 15052026 | 08:43:56 ] [ 15052026 | 08:43:56 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:43:56 ] [ 15052026 | 08:43:56 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:43:56 ] [ 15052026 | 08:43:56 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:43:56 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:43:56 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:43:56 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:43:56 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:43:56 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:43:56 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:43:56 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:44:21 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:44:21 ] ##############################
+
+[ 15052026 | 08:44:21 ] [ 15052026 | 08:44:21 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:44:21 ] [ 15052026 | 08:44:21 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:44:21 ] [ 15052026 | 08:44:21 ] LOG: 
+
+[ 15052026 | 08:44:21 ] [ 15052026 | 08:44:21 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:44:21 ] [ 15052026 | 08:44:21 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:44:21 ] [ 15052026 | 08:44:21 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:44:21 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:44:21 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:44:21 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:44:21 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:44:21 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:44:21 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:44:21 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:45:10 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:45:10 ] ##############################
+
+[ 15052026 | 08:45:10 ] [ 15052026 | 08:45:10 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:45:10 ] [ 15052026 | 08:45:10 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:45:10 ] [ 15052026 | 08:45:10 ] LOG: 
+
+[ 15052026 | 08:45:10 ] [ 15052026 | 08:45:10 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:45:10 ] [ 15052026 | 08:45:10 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:45:10 ] [ 15052026 | 08:45:10 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:45:10 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:45:10 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:45:10 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:45:10 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:45:10 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:45:10 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:45:10 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:45:46 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:45:46 ] ##############################
+
+[ 15052026 | 08:45:46 ] [ 15052026 | 08:45:46 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:45:46 ] [ 15052026 | 08:45:46 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:45:46 ] [ 15052026 | 08:45:46 ] LOG: 
+
+[ 15052026 | 08:45:46 ] [ 15052026 | 08:45:46 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:45:46 ] [ 15052026 | 08:45:46 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:45:46 ] [ 15052026 | 08:45:46 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:45:46 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:45:46 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:45:46 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:45:46 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:45:46 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:45:46 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:45:46 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:46:08 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:46:08 ] ##############################
+
+[ 15052026 | 08:46:08 ] [ 15052026 | 08:46:08 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:46:08 ] [ 15052026 | 08:46:08 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:46:08 ] [ 15052026 | 08:46:08 ] LOG: 
+
+[ 15052026 | 08:46:08 ] [ 15052026 | 08:46:08 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:46:08 ] [ 15052026 | 08:46:08 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:46:08 ] [ 15052026 | 08:46:08 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:46:08 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:46:08 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:46:08 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:46:08 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:46:08 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:46:08 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:46:08 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:47:19 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:47:19 ] ##############################
+
+[ 15052026 | 08:47:19 ] [ 15052026 | 08:47:19 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:47:19 ] [ 15052026 | 08:47:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:47:19 ] [ 15052026 | 08:47:19 ] LOG: 
+
+[ 15052026 | 08:47:19 ] [ 15052026 | 08:47:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:47:19 ] [ 15052026 | 08:47:19 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:47:19 ] [ 15052026 | 08:47:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:47:19 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:47:19 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:47:19 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:47:19 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:47:19 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:47:19 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:47:19 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:47:44 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:47:44 ] ##############################
+
+[ 15052026 | 08:47:44 ] [ 15052026 | 08:47:44 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:47:44 ] [ 15052026 | 08:47:44 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:47:44 ] [ 15052026 | 08:47:44 ] LOG: 
+
+[ 15052026 | 08:47:44 ] [ 15052026 | 08:47:44 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:47:44 ] [ 15052026 | 08:47:44 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:47:44 ] [ 15052026 | 08:47:44 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:47:44 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:47:44 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:47:44 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:47:44 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:47:44 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:47:44 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:47:44 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:48:52 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:48:52 ] ##############################
+
+[ 15052026 | 08:48:52 ] [ 15052026 | 08:48:52 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:48:52 ] [ 15052026 | 08:48:52 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:48:52 ] [ 15052026 | 08:48:52 ] LOG: 
+
+[ 15052026 | 08:48:52 ] [ 15052026 | 08:48:52 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:48:52 ] [ 15052026 | 08:48:52 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:48:52 ] [ 15052026 | 08:48:52 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:48:52 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:48:52 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:48:52 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:48:52 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:48:52 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:48:52 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:48:52 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:49:08 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:49:08 ] ##############################
+
+[ 15052026 | 08:49:08 ] [ 15052026 | 08:49:08 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:49:08 ] [ 15052026 | 08:49:08 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:49:08 ] [ 15052026 | 08:49:08 ] LOG: 
+
+[ 15052026 | 08:49:08 ] [ 15052026 | 08:49:08 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:49:08 ] [ 15052026 | 08:49:08 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:49:08 ] [ 15052026 | 08:49:08 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:49:08 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:49:08 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:49:08 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:49:08 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:49:08 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:49:08 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:49:08 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:49:33 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:49:33 ] ##############################
+
+[ 15052026 | 08:49:33 ] [ 15052026 | 08:49:33 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:49:33 ] [ 15052026 | 08:49:33 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:49:33 ] [ 15052026 | 08:49:33 ] LOG: 
+
+[ 15052026 | 08:49:33 ] [ 15052026 | 08:49:33 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:49:33 ] [ 15052026 | 08:49:33 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:49:33 ] [ 15052026 | 08:49:33 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:49:33 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:49:33 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:49:33 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:49:33 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:49:33 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:49:33 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:49:33 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:50:05 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:50:05 ] ##############################
+
+[ 15052026 | 08:50:05 ] [ 15052026 | 08:50:05 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:50:05 ] [ 15052026 | 08:50:05 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:50:05 ] [ 15052026 | 08:50:05 ] LOG: 
+
+[ 15052026 | 08:50:05 ] [ 15052026 | 08:50:05 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:50:05 ] [ 15052026 | 08:50:05 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:50:05 ] [ 15052026 | 08:50:05 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:50:05 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:50:05 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:50:05 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:50:05 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:50:05 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:50:05 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:50:05 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:50:19 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:50:19 ] ##############################
+
+[ 15052026 | 08:50:19 ] [ 15052026 | 08:50:19 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:50:19 ] [ 15052026 | 08:50:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:50:19 ] [ 15052026 | 08:50:19 ] LOG: 
+
+[ 15052026 | 08:50:19 ] [ 15052026 | 08:50:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:50:19 ] [ 15052026 | 08:50:19 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:50:19 ] [ 15052026 | 08:50:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:50:19 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:50:19 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:50:19 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:50:19 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:50:19 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:50:19 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:50:19 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:50:37 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:50:37 ] ##############################
+
+[ 15052026 | 08:50:37 ] [ 15052026 | 08:50:37 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:50:37 ] [ 15052026 | 08:50:37 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:50:37 ] [ 15052026 | 08:50:37 ] LOG: 
+
+[ 15052026 | 08:50:37 ] [ 15052026 | 08:50:37 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:50:37 ] [ 15052026 | 08:50:37 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:50:37 ] [ 15052026 | 08:50:37 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:50:37 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:50:37 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:50:37 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:50:37 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:50:37 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:50:37 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:50:37 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:50:47 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:50:47 ] ##############################
+
+[ 15052026 | 08:50:47 ] [ 15052026 | 08:50:47 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:50:47 ] [ 15052026 | 08:50:47 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:50:47 ] [ 15052026 | 08:50:47 ] LOG: 
+
+[ 15052026 | 08:50:47 ] [ 15052026 | 08:50:47 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:50:47 ] [ 15052026 | 08:50:47 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:50:47 ] [ 15052026 | 08:50:47 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:50:47 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:50:47 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:50:47 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:50:47 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:50:47 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:50:47 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:50:47 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:51:05 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:51:05 ] ##############################
+
+[ 15052026 | 08:51:05 ] [ 15052026 | 08:51:05 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:51:05 ] [ 15052026 | 08:51:05 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:51:05 ] [ 15052026 | 08:51:05 ] LOG: 
+
+[ 15052026 | 08:51:05 ] [ 15052026 | 08:51:05 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:51:05 ] [ 15052026 | 08:51:05 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:51:05 ] [ 15052026 | 08:51:05 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:51:05 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:51:05 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:51:05 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:51:05 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:51:05 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:51:05 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:51:05 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:51:26 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:51:26 ] ##############################
+
+[ 15052026 | 08:51:26 ] [ 15052026 | 08:51:26 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:51:26 ] [ 15052026 | 08:51:26 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:51:26 ] [ 15052026 | 08:51:26 ] LOG: 
+
+[ 15052026 | 08:51:26 ] [ 15052026 | 08:51:26 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:51:26 ] [ 15052026 | 08:51:26 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:51:26 ] [ 15052026 | 08:51:26 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:51:26 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:51:26 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:51:26 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:51:26 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:51:26 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:51:26 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:51:26 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:53:10 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:53:10 ] ##############################
+
+[ 15052026 | 08:53:10 ] [ 15052026 | 08:53:10 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:53:10 ] [ 15052026 | 08:53:10 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:53:10 ] [ 15052026 | 08:53:10 ] LOG: 
+
+[ 15052026 | 08:53:10 ] [ 15052026 | 08:53:10 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:53:10 ] [ 15052026 | 08:53:10 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:53:10 ] [ 15052026 | 08:53:10 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:53:10 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:53:10 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:53:10 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:53:10 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:53:10 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:53:10 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:53:10 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:54:14 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:54:14 ] ##############################
+
+[ 15052026 | 08:54:14 ] [ 15052026 | 08:54:14 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:54:14 ] [ 15052026 | 08:54:14 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:54:14 ] [ 15052026 | 08:54:14 ] LOG: 
+
+[ 15052026 | 08:54:14 ] [ 15052026 | 08:54:14 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:54:14 ] [ 15052026 | 08:54:14 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:54:14 ] [ 15052026 | 08:54:14 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:54:14 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:54:14 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:54:14 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:54:14 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:54:14 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:54:14 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:54:14 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:55:42 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:55:42 ] ##############################
+
+[ 15052026 | 08:55:42 ] [ 15052026 | 08:55:42 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:55:42 ] [ 15052026 | 08:55:42 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:55:42 ] [ 15052026 | 08:55:42 ] LOG: 
+
+[ 15052026 | 08:55:42 ] [ 15052026 | 08:55:42 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:55:42 ] [ 15052026 | 08:55:42 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:55:42 ] [ 15052026 | 08:55:42 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:55:42 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:55:42 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:55:42 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:55:42 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:55:42 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:55:42 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:55:42 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 08:57:42 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 08:57:42 ] ##############################
+
+[ 15052026 | 08:57:42 ] [ 15052026 | 08:57:42 ] PATH DE MODULOS: 
+
+[ 15052026 | 08:57:42 ] [ 15052026 | 08:57:42 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 08:57:42 ] [ 15052026 | 08:57:42 ] LOG: 
+
+[ 15052026 | 08:57:42 ] [ 15052026 | 08:57:42 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 08:57:42 ] [ 15052026 | 08:57:42 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 08:57:42 ] [ 15052026 | 08:57:42 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 08:57:42 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 08:57:42 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 08:57:42 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 08:57:42 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 08:57:42 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 08:57:42 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 08:57:42 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 09:00:39 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 09:00:39 ] ##############################
+
+[ 15052026 | 09:00:39 ] [ 15052026 | 09:00:39 ] PATH DE MODULOS: 
+
+[ 15052026 | 09:00:39 ] [ 15052026 | 09:00:39 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 09:00:39 ] [ 15052026 | 09:00:39 ] LOG: 
+
+[ 15052026 | 09:00:39 ] [ 15052026 | 09:00:39 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 09:00:39 ] [ 15052026 | 09:00:39 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 09:00:39 ] [ 15052026 | 09:00:39 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 09:00:39 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 09:00:39 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 09:00:39 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 09:00:39 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 09:00:39 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 09:00:39 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 09:00:39 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 09:01:27 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 09:01:27 ] ##############################
+
+[ 15052026 | 09:01:27 ] [ 15052026 | 09:01:27 ] PATH DE MODULOS: 
+
+[ 15052026 | 09:01:27 ] [ 15052026 | 09:01:27 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 09:01:27 ] [ 15052026 | 09:01:27 ] LOG: 
+
+[ 15052026 | 09:01:27 ] [ 15052026 | 09:01:27 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 09:01:27 ] [ 15052026 | 09:01:27 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 09:01:27 ] [ 15052026 | 09:01:27 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 09:01:27 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 09:01:27 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 09:01:27 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 09:01:27 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 09:01:27 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 09:01:27 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 09:01:27 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 09:01:41 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 09:01:41 ] ##############################
+
+[ 15052026 | 09:01:41 ] [ 15052026 | 09:01:41 ] PATH DE MODULOS: 
+
+[ 15052026 | 09:01:41 ] [ 15052026 | 09:01:41 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 09:01:41 ] [ 15052026 | 09:01:41 ] LOG: 
+
+[ 15052026 | 09:01:41 ] [ 15052026 | 09:01:41 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 09:01:41 ] [ 15052026 | 09:01:41 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 09:01:41 ] [ 15052026 | 09:01:41 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 09:01:41 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 09:01:41 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 09:01:41 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 09:01:41 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 09:01:41 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 09:01:41 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 09:01:41 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 09:01:55 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 09:01:55 ] ##############################
+
+[ 15052026 | 09:01:55 ] [ 15052026 | 09:01:55 ] PATH DE MODULOS: 
+
+[ 15052026 | 09:01:55 ] [ 15052026 | 09:01:55 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 09:01:55 ] [ 15052026 | 09:01:55 ] LOG: 
+
+[ 15052026 | 09:01:55 ] [ 15052026 | 09:01:55 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 09:01:55 ] [ 15052026 | 09:01:55 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 09:01:55 ] [ 15052026 | 09:01:55 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 09:01:55 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 09:01:55 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 09:01:55 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 09:01:55 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 09:01:55 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 09:01:55 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 09:01:55 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 10:59:07 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 10:59:07 ] ##############################
+
+[ 15052026 | 10:59:07 ] [ 15052026 | 10:59:07 ] PATH DE MODULOS: 
+
+[ 15052026 | 10:59:07 ] [ 15052026 | 10:59:07 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 10:59:07 ] [ 15052026 | 10:59:07 ] LOG: 
+
+[ 15052026 | 10:59:07 ] [ 15052026 | 10:59:07 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 10:59:07 ] [ 15052026 | 10:59:07 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 10:59:07 ] [ 15052026 | 10:59:07 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 10:59:07 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 10:59:07 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 10:59:07 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 10:59:07 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 10:59:07 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 10:59:07 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 10:59:07 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 11:00:01 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 11:00:01 ] ##############################
+
+[ 15052026 | 11:00:01 ] [ 15052026 | 11:00:01 ] PATH DE MODULOS: 
+
+[ 15052026 | 11:00:01 ] [ 15052026 | 11:00:01 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 11:00:01 ] [ 15052026 | 11:00:01 ] LOG: 
+
+[ 15052026 | 11:00:01 ] [ 15052026 | 11:00:01 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 11:00:01 ] [ 15052026 | 11:00:01 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 11:00:01 ] [ 15052026 | 11:00:01 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 11:00:01 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 11:00:01 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 11:00:01 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 11:00:01 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 11:00:01 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 11:00:01 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 11:00:01 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 11:01:54 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 11:01:54 ] ##############################
+
+[ 15052026 | 11:01:54 ] [ 15052026 | 11:01:54 ] PATH DE MODULOS: 
+
+[ 15052026 | 11:01:54 ] [ 15052026 | 11:01:54 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 11:01:54 ] [ 15052026 | 11:01:54 ] LOG: 
+
+[ 15052026 | 11:01:54 ] [ 15052026 | 11:01:54 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 11:01:54 ] [ 15052026 | 11:01:54 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 11:01:54 ] [ 15052026 | 11:01:54 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 11:01:54 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 11:01:54 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 11:01:54 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 11:01:54 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 11:01:54 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 11:01:54 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 11:01:54 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 11:02:19 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 11:02:19 ] ##############################
+
+[ 15052026 | 11:02:19 ] [ 15052026 | 11:02:19 ] PATH DE MODULOS: 
+
+[ 15052026 | 11:02:19 ] [ 15052026 | 11:02:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 11:02:19 ] [ 15052026 | 11:02:19 ] LOG: 
+
+[ 15052026 | 11:02:19 ] [ 15052026 | 11:02:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 11:02:19 ] [ 15052026 | 11:02:19 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 11:02:19 ] [ 15052026 | 11:02:19 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 11:02:19 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 11:02:19 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 11:02:19 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 11:02:19 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 11:02:19 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 11:02:19 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 11:02:19 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 11:03:08 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 11:03:08 ] ##############################
+
+[ 15052026 | 11:03:08 ] [ 15052026 | 11:03:08 ] PATH DE MODULOS: 
+
+[ 15052026 | 11:03:08 ] [ 15052026 | 11:03:08 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 11:03:08 ] [ 15052026 | 11:03:08 ] LOG: 
+
+[ 15052026 | 11:03:08 ] [ 15052026 | 11:03:08 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 11:03:08 ] [ 15052026 | 11:03:08 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 11:03:08 ] [ 15052026 | 11:03:08 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 11:03:08 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 11:03:08 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 11:03:08 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 11:03:08 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 11:03:08 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 11:03:08 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 11:03:08 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 11:04:06 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 11:04:06 ] ##############################
+
+[ 15052026 | 11:04:06 ] [ 15052026 | 11:04:06 ] PATH DE MODULOS: 
+
+[ 15052026 | 11:04:06 ] [ 15052026 | 11:04:06 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 11:04:06 ] [ 15052026 | 11:04:06 ] LOG: 
+
+[ 15052026 | 11:04:06 ] [ 15052026 | 11:04:06 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 11:04:06 ] [ 15052026 | 11:04:06 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 11:04:06 ] [ 15052026 | 11:04:06 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 11:04:06 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 11:04:06 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 11:04:06 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 11:04:06 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 11:04:06 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 11:04:06 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 11:04:06 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 11:14:39 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 11:14:39 ] ##############################
+
+[ 15052026 | 11:14:39 ] [ 15052026 | 11:14:39 ] PATH DE MODULOS: 
+
+[ 15052026 | 11:14:39 ] [ 15052026 | 11:14:39 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 11:14:39 ] [ 15052026 | 11:14:39 ] LOG: 
+
+[ 15052026 | 11:14:39 ] [ 15052026 | 11:14:39 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 11:14:39 ] [ 15052026 | 11:14:39 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 11:14:39 ] [ 15052026 | 11:14:39 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 11:14:39 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 11:14:39 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 11:14:39 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 11:14:39 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 11:14:39 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 11:14:39 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 11:14:39 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 11:16:52 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 11:16:52 ] ##############################
+
+[ 15052026 | 11:16:52 ] [ 15052026 | 11:16:52 ] PATH DE MODULOS: 
+
+[ 15052026 | 11:16:52 ] [ 15052026 | 11:16:52 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 11:16:52 ] [ 15052026 | 11:16:52 ] LOG: 
+
+[ 15052026 | 11:16:52 ] [ 15052026 | 11:16:52 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 11:16:52 ] [ 15052026 | 11:16:52 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 11:16:52 ] [ 15052026 | 11:16:52 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 11:16:52 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 11:16:52 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 11:16:52 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 11:16:52 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 11:16:52 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 11:16:52 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 11:16:52 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 12:27:22 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 12:27:22 ] ##############################
+
+[ 15052026 | 12:27:22 ] [ 15052026 | 12:27:22 ] PATH DE MODULOS: 
+
+[ 15052026 | 12:27:22 ] [ 15052026 | 12:27:22 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 12:27:22 ] [ 15052026 | 12:27:22 ] LOG: 
+
+[ 15052026 | 12:27:22 ] [ 15052026 | 12:27:22 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 12:27:22 ] [ 15052026 | 12:27:22 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 12:27:22 ] [ 15052026 | 12:27:22 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 12:27:22 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 12:27:22 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 12:27:22 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 12:27:22 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 12:27:22 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 12:27:22 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 12:27:22 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 12:28:24 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 12:28:24 ] ##############################
+
+[ 15052026 | 12:28:24 ] [ 15052026 | 12:28:24 ] PATH DE MODULOS: 
+
+[ 15052026 | 12:28:24 ] [ 15052026 | 12:28:24 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 12:28:24 ] [ 15052026 | 12:28:24 ] LOG: 
+
+[ 15052026 | 12:28:24 ] [ 15052026 | 12:28:24 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 12:28:24 ] [ 15052026 | 12:28:24 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 12:28:24 ] [ 15052026 | 12:28:24 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 12:28:24 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 12:28:24 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 12:28:24 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 12:28:24 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 12:28:24 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 12:28:24 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 12:28:24 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 12:29:39 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 12:29:39 ] ##############################
+
+[ 15052026 | 12:29:39 ] [ 15052026 | 12:29:39 ] PATH DE MODULOS: 
+
+[ 15052026 | 12:29:39 ] [ 15052026 | 12:29:39 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 12:29:39 ] [ 15052026 | 12:29:39 ] LOG: 
+
+[ 15052026 | 12:29:39 ] [ 15052026 | 12:29:39 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 12:29:39 ] [ 15052026 | 12:29:39 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 12:29:39 ] [ 15052026 | 12:29:39 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 12:29:39 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 12:29:39 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 12:29:39 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 12:29:39 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 12:29:39 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 12:29:39 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 12:29:39 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 12:30:16 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 12:30:16 ] ##############################
+
+[ 15052026 | 12:30:16 ] [ 15052026 | 12:30:16 ] PATH DE MODULOS: 
+
+[ 15052026 | 12:30:16 ] [ 15052026 | 12:30:16 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 12:30:16 ] [ 15052026 | 12:30:16 ] LOG: 
+
+[ 15052026 | 12:30:16 ] [ 15052026 | 12:30:16 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 12:30:16 ] [ 15052026 | 12:30:16 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 12:30:16 ] [ 15052026 | 12:30:16 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 12:30:16 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 12:30:16 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 12:30:16 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 12:30:16 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 12:30:16 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 12:30:16 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 12:30:16 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 12:30:58 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 12:30:58 ] ##############################
+
+[ 15052026 | 12:30:58 ] [ 15052026 | 12:30:58 ] PATH DE MODULOS: 
+
+[ 15052026 | 12:30:58 ] [ 15052026 | 12:30:58 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 12:30:58 ] [ 15052026 | 12:30:58 ] LOG: 
+
+[ 15052026 | 12:30:58 ] [ 15052026 | 12:30:58 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 12:30:58 ] [ 15052026 | 12:30:58 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 12:30:58 ] [ 15052026 | 12:30:58 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 12:30:58 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 12:30:58 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 12:30:58 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 12:30:58 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 12:30:58 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 12:30:58 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 12:30:58 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 12:36:33 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 12:36:33 ] ##############################
+
+[ 15052026 | 12:36:33 ] [ 15052026 | 12:36:33 ] PATH DE MODULOS: 
+
+[ 15052026 | 12:36:33 ] [ 15052026 | 12:36:33 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 12:36:33 ] [ 15052026 | 12:36:33 ] LOG: 
+
+[ 15052026 | 12:36:33 ] [ 15052026 | 12:36:33 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 12:36:33 ] [ 15052026 | 12:36:33 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 12:36:33 ] [ 15052026 | 12:36:33 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 12:36:33 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 12:36:33 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 12:36:33 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 12:36:33 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 12:36:33 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 12:36:33 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 12:36:33 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+
+[ 15052026 | 12:40:09 ] ########  AUDITORIA EQP: 1234567890 - FECHA: [ 15052026 | 12:40:09 ] ##############################
+
+[ 15052026 | 12:40:09 ] [ 15052026 | 12:40:09 ] PATH DE MODULOS: 
+
+[ 15052026 | 12:40:09 ] [ 15052026 | 12:40:09 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\
+
+[ 15052026 | 12:40:09 ] [ 15052026 | 12:40:09 ] LOG: 
+
+[ 15052026 | 12:40:09 ] [ 15052026 | 12:40:09 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\RepositoryAuditory\Log_auditoria_15052026.txt
+
+[ 15052026 | 12:40:09 ] [ 15052026 | 12:40:09 ] MOULO GENERADOR DE HTML DE INFORME: 
+
+[ 15052026 | 12:40:09 ] [ 15052026 | 12:40:09 ] C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1
+
+MODULOS DE HARDWARE REQUERIDOS
+
+[ 15052026 | 12:40:09 ] Datos de |  CPU | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Cpu.psm1
+
+[ 15052026 | 12:40:09 ] Datos de |  DSICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Disk.psm1
+
+[ 15052026 | 12:40:09 ] Datos de |  EQUIPO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Eqp.psm1
+
+[ 15052026 | 12:40:09 ] Datos de |  DISCO_FISICO | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-Fdisk.psm1
+
+[ 15052026 | 12:40:09 ] Datos de |  IP_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-IpNet.psm1
+
+[ 15052026 | 12:40:09 ] Datos de |  ADAPTADOR_NET | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-NetAdp.psm1
+
+[ 15052026 | 12:40:09 ] Datos de |  TIME_ZONE | OK  - C:\Users\El JEFE\Desktop\Nueva carpeta\codigo\auditoria\auditoriawindows\src\Modules\Get-TMZone.psm1
+

@@ -1,5 +1,5 @@
 param(
-    [string]$TYPE = "raw"
+    [string]$TYPE
 )
 
 $RJson = Join-Path (Split-Path $PSScriptRoot -Parent) "\CommonFunctions\New-Result.psm1"
@@ -31,8 +31,12 @@ function Get-Cpu($TYPE){
                             NumberOfCores, 
                             NumberOfLogicalProcessors
 
+        #if($TYPE -eq "json"){
+            $cpu = $cpu | ConvertTo-JSON    
+        #}
+
         $CpuR = New-Result -STATUS 1 -MSG "$PSScriptRoot\Get-Cpu.psm1" -DATA $cpu -TYPE $TYPE
-        
+
         return  $CpuR
 
     }catch{

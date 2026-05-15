@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <title>Propiedades Equipo 1234567890</title>
+
+    <style>
+
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 18px;
+        }
+
+        body{
+            display:flex;
+            height:100vh;
+            background:#f4f7fa;
+        }
+
+        /* ===== MENU LATERAL ===== */
+
+        .sidebar{
+            width:250px;
+            background:#013BA6; /*#87CEEB;*/
+            color:white;
+            padding:20px;
+        }
+
+        .sidebar h2{
+            margin-bottom:30px;
+            text-align:center;
+        }
+
+        .menu-item{
+            padding:15px;
+            margin-bottom:10px;
+            border-radius:8px;
+            cursor:pointer;
+            transition:0.3s;
+        }
+
+        .menu-item:hover{
+            background:rgba(255,255,255,0.2);
+        }
+
+        .menu-item.active{
+            background:yellow; /* white; */
+            color:#87CEEB;
+            font-weight:bold;
+        }
+
+        /* ===== CONTENIDO ===== */
+
+        .content{
+            flex:1;
+            padding:30px;
+            overflow:auto;
+        }
+
+        .section{
+            display:none;
+            background:white;
+            padding:25px;
+            border-radius:12px;
+            box-shadow:0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .section.active{
+            display:block;
+        }
+
+        .section h1{
+            margin-bottom:20px;
+            color:#87CEEB;
+        }
+        table{
+            width: 100%; 
+            margin: auto; 
+            text-align: left;  
+            border: 1px solid #F5F5F4;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <!-- ===== MENU ===== -->
+
+    <div class="sidebar">
+
+        
+
+         <h1>EQ: 1234567890</h1>
+        <br>
+        <div class="menu-item active" onclick="showSection('home', this)"> Home </div>
+        <div class="menu-item" onclick="showSection('adaptador_net', this)">ADAPTADOR_NET</div><div class="menu-item" onclick="showSection('cpu', this)">CPU</div><div class="menu-item" onclick="showSection('disco', this)">DISCO</div><div class="menu-item" onclick="showSection('disco_fisico', this)">DISCO_FISICO</div><div class="menu-item" onclick="showSection('equipo', this)">EQUIPO</div><div class="menu-item" onclick="showSection('ip_net', this)">IP_NET</div><div class="menu-item" onclick="showSection('time_zone', this)">TIME_ZONE</div>
+        
+    <!--
+        <div class="menu-item" onclick="showSection('usuarios', this)">
+            Usuarios
+        </div>
+
+        <div class="menu-item" onclick="showSection('configuracion', this)">
+            Configuración
+        </div> -->
+    
+
+    </div>
+
+    <!-- ===== CONTENIDO ===== -->
+
+    <div class="content">
+
+        <div id="home" class="section active">
+            <h1>HOME</h1>
+            <p>
+                Resumen del equipo
+            </p>
+        </div>
+
+{{ main_content }}
+
+        <!--
+        <div id="configuracion" class="section">
+            <h1>Configuración</h1>
+            <p>
+                Opciones generales del sistema.
+            </p>
+        </div>  -->
+
+
+    </div>
+   
+    <!-- ===== SCRIPT ===== -->
+
+    <script>
+
+        function showSection(id, element){
+
+            // ocultar secciones
+            document.querySelectorAll('.section')
+                .forEach(section => {
+                    section.classList.remove('active');
+                });
+
+            // mostrar seleccionada
+            document.getElementById(id)
+                .classList.add('active');
+
+            // limpiar menu activo
+            document.querySelectorAll('.menu-item')
+                .forEach(item => {
+                    item.classList.remove('active');
+                });
+
+            // activar menu seleccionado
+            element.classList.add('active');
+        }
+
+    </script>
+
+</body>
+</html>
