@@ -18,9 +18,7 @@
     # log html informe
     $htmlIf = "$PSSCriptRoot\Infrastructure\GetInformationHtml\Get-HtmlInforme.psm1"
 
-    # ID EQP
-    $IDEQP = 1234567890
-
+    
 ### IMPORT MODULES ############################################################
 
 # toDocuments
@@ -37,6 +35,13 @@
     Import-Module -Name "$PSSCriptRoot\Modules\Get-NetAdp.psm1"
     Import-Module -Name "$PSSCriptRoot\Modules\Get-TMZone.psm1"
     Import-Module -Name "$PSSCriptRoot\Modules\Get-Adapters.psm1"
+    Import-Module -Name "$PSSCriptRoot\Modules\Get-Adapters.psm1"
+
+
+    $datos = Import-PowerShellDataFile ".\Infrastructure\Data.psd1"
+    
+    # ID EQP
+    $IDEQP = $datos.EQUIPO.ID
 
 ### FUNCTIONS ################################################################
 
@@ -123,6 +128,9 @@
     $Values = [PSCustomObject]@{}
 
     $Values | Add-Member -NotePropertyName "ID" -NotePropertyValue  $IDEQP
+    $Values | Add-Member -NotePropertyName "EQUIPO_R" -NotePropertyValue  $datos.EQUIPO
+    $Values | Add-Member -NotePropertyName "EMPL_ACARGO" -NotePropertyValue  $datos.EMPL_ACARGO
+    $Values | Add-Member -NotePropertyName "GERENTE" -NotePropertyValue  $datos.GERENTE
 
     $Values | Add-Member -NotePropertyName "DATE" -NotePropertyValue (Get-Date)
 
@@ -194,5 +202,9 @@
 
     Get-HtmlInforme -DATA $Values
 
-Exit 1
+    if( $datos.GERENTE.ACEPTACION ){
+        Write-Host "Aceptacion de Equipo cellado "
+    }else{
+        Write-Host " Sin Aceptacion de Equipo"
+    }
 
